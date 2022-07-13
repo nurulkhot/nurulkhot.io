@@ -1,9 +1,15 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FDA12B;
+    --primary: #7dfc9c;
     --secondary: #8D9297;
     --light: #F8F9FA;
     --dark: #182333;
+}
+.tombol-detail{
+    background-color: #00923F;
+}
+.tombol-detail:hover{
+    background-color: #B8E85C;
 }
 .header-logo{
     width: 0,01px

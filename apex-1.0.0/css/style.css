@@ -5,6 +5,9 @@
     --light: #F8F9FA;
     --dark: #182333;
 }
+.header-logo{
+    width: 0,01px
+}
 .class-1 {
     margin-bottom: 200px;
 }
